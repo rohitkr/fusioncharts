@@ -1,0 +1,19 @@
+{
+  "name": "npmrohithello",
+  "version": "1.0.1",
+  "description": "Test project to learn npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohitkr/npm_hello.git"
+  },
+  "author": "Rohit Kumar <rohit.kr001@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rohitkr/npm_hello/issues"
+  },
+  "homepage": "https://github.com/rohitkr/npm_hello"
+}
